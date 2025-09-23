@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Process Control Systems"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Environmental Management"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ]
+  ],
+  "legacy_uid": "b1e28e0a-cd3e-8394-6404-5019e0c89697",
+  "instructors": {
+    "content": [
+      "ccde269a-2e02-52f3-dbeb-779ffbd222f5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5c554eb9-211f-a136-0feb-77cf87bb5dec",
+    "website": "10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004"
+  },
+  "course_title": "Integrated Chemical Engineering Topics I: Process Control by Design",
+  "course_description": "In the ICE-Topics courses, various chemical engineering problems are presented and analyzed in an industrial context. Emphasis is on the integration of fundamentals with material property estimation, process control, product development, and computer simulation. Integration of societal issues, such as engineering ethics, environmental and safety considerations, and impact of technology on society are addressed in the context of case studies.\n\nThe broad context for this ICE-Topics module is the commonsense notion that, when designing something, one should plan for the off-normal conditions that may occur. A continuous process is conceived and designed as a steady-state operation. However, the process must start up, shut down, and operate in the event of disturbances, and so the time-varying behavior of the process should not be neglected. It is helpful to consider the operability of a process early in the design, when alternatives are still being compared. In this module, we will examine some tools that will help to evaluate the operability of the candidate process at the preliminary design stage, before substantial effort has been invested.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.492-1",
+  "course_image_thumbnail": {
+    "content": "52c50b04-029d-e75d-12c1-66accba20c5b",
+    "website": "10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "12132b44-34ec-416e-b9ad-4360c86506f7",
+  "site_short_id": "10.492-1-fall-2004",
+  "site_url_path": "courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004",
+  "title": "Course Metadata"
+}
