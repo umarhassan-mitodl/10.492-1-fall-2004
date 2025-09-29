@@ -5,6 +5,8 @@ description: Summary of topics covered in the lecture, along with a list of bibl
 file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/09339e95f89797a6d374cf59bf475f68_notes_2_simulatn.pdf
 file_size: 148442
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

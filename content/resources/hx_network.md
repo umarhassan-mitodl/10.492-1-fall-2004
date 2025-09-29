@@ -5,6 +5,8 @@ description: This spreadsheet file contains the basecase that is presented in th
 file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/6ba4821c57eca3a48b13e49b4e82ebf5_hx_network.xls
 file_size: 20480
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

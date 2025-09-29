@@ -4,6 +4,8 @@ description: ''
 file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/7302ccc605640f19703fa698b447470a_chp_ilab_hx.jpg
 file_size: 56874
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

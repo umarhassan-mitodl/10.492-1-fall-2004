@@ -5,6 +5,8 @@ description: This MATLAB? file uses a reduced-Newton algorithm with a weak line 
 file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/3fe1ffed07cc2d74c6c6120be76f22b6_reduced_Newton.m
 file_size: 5546
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: This MATLAB? file contains a function to calculate the Jacobian mat
 file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/f0d5917777a5f1aec9cd454cc28c6973_calc_Jac.m
 file_size: 1033
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
