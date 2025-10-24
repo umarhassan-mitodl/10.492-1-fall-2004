@@ -4,8 +4,6 @@ description: Brief explanation of matrices, along with MATLAB programming instru
 file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/082927487868bfca8ffeddf095883ee2_notes_1a_matrix.pdf
 file_size: 130962
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

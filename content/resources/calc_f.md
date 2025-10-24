@@ -5,8 +5,6 @@ description: This MATLAB? file contains a system of equations that describes the
 file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/5cacd7ee642079335edeb9c653551b7d_calc_f.m
 file_size: 2466
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

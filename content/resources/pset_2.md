@@ -4,8 +4,6 @@ description: Problem set.
 file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/f62ba620ac4dbb4927ef09d2a6bca104_pset_2.pdf
 file_size: 9386
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
